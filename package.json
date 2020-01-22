@@ -1,6 +1,6 @@
 {
   "name": "react-rsvp-app",
-  "homepage": "https://chrisj79.github.io/react-rsvp-app"
+  "homepage": "https://chrisj79.github.io/react-rsvp-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
